@@ -1,0 +1,7 @@
+git init
+git user.name
+git user.email
+git add --all
+git commit - m "descrição do commit"
+git branch Nome da branch (cria uma nova branch)
+git chekout nome da branch (usado para acessar a branc desejada)
